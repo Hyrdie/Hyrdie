@@ -23,3 +23,6 @@
         </ul>
     </div>
 </div>
+<!-- ![Hyrdie github stats](https://github-readme-stats.vercel.app/api?username=Hyrdie&show_icons=true&hide_border=true&count_private=true)
+![Hyrdie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyrdie&count_private=true)
+ -->
